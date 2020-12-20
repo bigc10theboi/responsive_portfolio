@@ -6,7 +6,6 @@ body {
     background: rgb(159, 219, 185);
 }
 
-
 .container {
     width: 100%;
     max-width: 960px;
@@ -14,7 +13,13 @@ body {
     clear: both;
 }
   
-
+h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #dddddd;
+  }
+  
 .navbar {
     display: inline-block;
   padding-left:18px;
