@@ -16,6 +16,12 @@
     color: white;
 }
 
+#imgtag {
+    font-size: small;
+    font-style: italic;
+    color: rosybrown;
+}
+
 @media screen and (max-width: 992px) {
 
 }
