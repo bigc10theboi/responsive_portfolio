@@ -76,7 +76,6 @@ h1 {
     font-size: 14px;
     border: 1px solid #dddddd;
     width: 830px;
-    align: center;
   }
   
   textarea {
@@ -91,7 +90,7 @@ h1 {
     background: rgb(35, 129, 76);
     border: 0 none;
     width:200px;
-    align: left;
+    
     margin-left:36px;
   
   }
