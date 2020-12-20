@@ -70,6 +70,11 @@ footer {
     height: 50px;
   }
 /* contact form styling */
+#contactMe {
+    border: 2px solid black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
 #contact-form ul {
     margin-bottom: 20px;
   }
@@ -109,6 +114,10 @@ footer {
     border: 0 none;
     width:200px;
     margin-left:36px;
+  }
+
+  .subButton {
+      margin-bottom: 20px;
   }
 /* screen size fixing */
 @media screen and (max-width: 992px) {
