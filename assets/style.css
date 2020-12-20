@@ -3,8 +3,9 @@ body {
     font-size: 18px;
     line-height: 28px;
     color: #070707;
-    background: seagreen);
+    background: rgb(159, 219, 185);
 }
+
 
 .container {
     width: 100%;
@@ -35,7 +36,7 @@ body {
 #imgtag {
     font-size: small;
     font-style: italic;
-    color: rosybrown;
+    color: black;
 }
 
 @media screen and (max-width: 992px) {
